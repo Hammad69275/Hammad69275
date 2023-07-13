@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hammad Malik</h1>
-<h3 align="center">A passionate Android and Web Developer from Lahore,Pakistan</h3>
+<h3 align="center">A passionate Web Developer from Lahore,Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad69275&label=Profile%20views&color=0e75b6&style=flat" alt="hammad69275" /> </p>
 
-- 🔭 I’m currently working on [Wikicord](https://github.com/Hammad69275/wikicord)
+- 🔭 I’m currently working on [InstaBot](https://github.com/Hammad69275/InstaBot)
 
-- 🌱 I’m currently learning **Rust, React native**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React, NodeJS, HTML/CSS/JS**
 
 - 📫 How to reach me **hm754831@gmail.com**
-
-- ⚡ Fun fact **I hate python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
